@@ -1,4 +1,5 @@
-# Three.js Journey
+## preview:
+https://galaxy-generator-blue-psi.vercel.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
